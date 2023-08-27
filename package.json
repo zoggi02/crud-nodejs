@@ -1,0 +1,24 @@
+{
+  "name": "crud-node",
+  "version": "1.0.0",
+  "description": "crud-node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoggi02/crud-nodejs.git"
+  },
+  "keywords": [
+    "crud",
+    "node",
+    "express"
+  ],
+  "author": "zoggi02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoggi02/crud-nodejs/issues"
+  },
+  "homepage": "https://github.com/zoggi02/crud-nodejs#readme"
+}
